@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">✨ Hi, I'm <span style="color:#00AEEF;">Krishna Prasad S</span> ✨</h1>
-<h3 align="center">🚀 AI-Powered Full-Stack & System Design Engineer | Building Scalable Intelligent Applications</h3>
+<h3 align="center">🚀 AI-Powered Full-Stack & DevOps Engineer | Building Scalable Intelligent Applications</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=krishna-prasad-ceo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" style="margin:5px"/>
