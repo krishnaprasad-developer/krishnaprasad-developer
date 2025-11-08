@@ -18,7 +18,7 @@
 ---
 
 ## 🧑‍💼 Professional Summary
-🌟 AI-Powered Full-Stack and System Design Engineer with **expertise in backend & frontend development**.  
+🌟 AI-Powered Full-Stack and DevOps Engineer with **expertise in backend & frontend development**.  
 💡 Skilled in designing **scalable systems**, integrating APIs, and applying **AI technologies** to automate and build intelligent applications.  
 
 ---
