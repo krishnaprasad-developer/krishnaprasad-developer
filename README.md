@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=krishnaprasad-developer&label=Profile%20Views&color=00AEEF&style=for-the-badge" alt="Profile Views"/>
 <a href="https://www.linkedin.com/in/krishna-prasad-s-59133a280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:krishnaprasadandco12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://modern-uiux-ysbp.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-2ECC71?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://krishnaprasadprofile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-2ECC71?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
@@ -164,7 +164,7 @@ B.E. Electronics & Communication Engineering | CGPA: **9.02 / 10** &nbsp;·&nbsp
 <a href="mailto:krishnaprasadandco12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/krishna-prasad-s-59133a280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/krishnaprasad-developer" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://modern-uiux-ysbp.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://krishnaprasadprofile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 <br/>
 <a href="https://leetcode.com/u/Krishna_Prasad_S/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/krishnaprasadan2" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
