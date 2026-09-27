@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:8A2BE2&height=200&section=header&text=Krishna%20Prasad%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI-Powered%20Full-Stack%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AEEF,100:8A2BE2&height=200&section=header&text=Krishna%20Prasad%20S&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%2FBackend%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=Building+Scalable+Intelligent+Applications;LLM+%2B+RAG+%2B+Agentic+AI+Engineer;Full-Stack+Developer+%7C+MERN+%2B+Python;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=650&lines=AI%2FBackend+Engineer+%7C+LLMs+%2B+RAG+%2B+Cloud-Native+APIs;%3C200ms+Latency+Multi-Agent+Platforms;Production+RAG+Systems+%40+99%25%2B+Relevance;National+Hackathon+Winner+%7C+Top+1%25+of+2%2C400%2B+Teams" alt="Typing SVG" />
 
 <br/>
 
@@ -17,45 +17,34 @@
 
 ## 🧑‍💼 About Me
 
-> 🌟 **AI-Powered Full-Stack & DevOps Engineer** specializing in LLM-powered backends, RAG pipelines, and cloud-native systems.
-> 💡 I design **scalable architectures**, ship **production AI systems**, and love turning research-grade ideas into real, working products.
-> 🏆 National hackathon winner (top 1% of 2,400+ teams) — always building, always shipping.
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 🔭 Currently Working On
-- 🤖 **SIH 2025** — LLM-based PM Internship Recommender System
-- ⚙️ Production RAG pipelines & multi-agent AI platforms
-- 🎨 Open-source dev tools & AI-powered utilities
-
-</td>
-<td valign="top" width="50%">
-
-### 🌱 Currently Exploring
-- 🧠 Agentic AI orchestration (LangGraph, CrewAI, AutoGen)
-- 🏗️ Distributed systems & event-driven architecture
-- ☁️ Cloud-native DevOps at scale
-
-</td>
-</tr>
-</table>
+> 🌟 Software engineer with proven impact shipping **production AI systems**: built a multi-agent platform handling real-time voice/video at **<200ms latency**, won a **national hackathon** against 2,400+ teams, and delivered production-grade RAG pipelines with **99%+ retrieval relevance**.
+> 💡 Specializing in **LLM-powered backends**, **RAG architectures**, and **cloud-native APIs**.
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
 <table align="center" width="100%">
 <tr>
 <td width="100%">
 
-**🔹 Smart India Hackathon (SIH 2K25)** — *LLM-Based PM Internships Recommender System* &nbsp; `Sep 2025 – Present`
-📎 [View Project →](https://krishna-coc-sih-pm-internship-recommender.hf.space/)
+**🔹 AI Software Developer — Cybermindworks** &nbsp; `Present`
+`Python` `FastAPI` `RAG` `Vector DBs (HNSW)` `Cohere` `Kafka` `Redis` `PydanticAI` `Next.js` `Azure DevOps` `OpenTelemetry` `Langfuse`
 
-**🔹 Web Development Intern — InLighnX Global Pvt. Ltd.** &nbsp; `May 2025 – Jun 2025`
-Built a real-time messaging app with 32 customizable themes & media sharing
-📎 [View Project →](https://intern-project-rprx.onrender.com/)
+- Built a production RAG chatbot combining hybrid vector + full-text retrieval, Reciprocal Rank Fusion, and Cohere reranking on HNSW indexes — **99.27%+ retrieval relevance** on SME-validated evaluation data
+- Built source-aware parsing across **23+ sources** (CMS, PDFs, webinars, event microsites) using Docling and layout-specific routing; incremental ingestion via document/chunk-level hashing cut processing overhead by **37.4%+**
+- Implemented agent reliability & safety controls — context-window trimming, tool-call budgets, model fallbacks, session state, prompt-injection/scope/citation-faithfulness checks
+- Built evaluation & observability with SME-validated golden datasets, Pydantic Evals, LLM-as-judge, Langfuse, OpenTelemetry, and Azure DevOps CI — monitoring **1,000+ eval & ingestion runs**
+
+<br/>
+
+**🔹 Software Development Engineer Intern — Tripfactory Pvt Ltd, Bangalore** &nbsp; `Jan 2026 – Jun 2026`
+`Python` `WebSockets` `Microservices` `RabbitMQ` `Redis` `React.js` `Next.js` `Docker` `Kubernetes` `Grafana` `CQRS` `Event Sourcing`
+
+- Architected a multi-agent AI platform (voice, video, real-time chat) achieving **<200ms** end-to-end response latency — beating the initial 350ms SLA by **43%**
+- Shipped a dynamic workspace configuration engine for LLM/TTS/STT/voice-model selection, cutting operator onboarding time by an estimated **30%**
+- Designed and deployed an RBAC-based IAM system enforcing least-privilege access, eliminating an entire class of privilege-escalation vulnerabilities
+- Reduced frontend load times by **12%** via modular UI components, lazy-loaded search, and server-side filtering
 
 </td>
 </tr>
@@ -69,43 +58,61 @@ Built a real-time messaging app with 32 customizable themes & media sharing
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,ts" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,ts,js" />
 
-**Frontend**
+**Backend & Microservices**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express" />
 
-**Backend & Databases**
+**AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres" />
+<img src="https://img.shields.io/badge/LLMs-black?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-black?style=flat-square"/> <img src="https://img.shields.io/badge/PydanticAI-black?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-black?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-black?style=flat-square"/> <img src="https://img.shields.io/badge/OpenAI-black?style=flat-square"/> <img src="https://img.shields.io/badge/Azure_AI_Foundry-black?style=flat-square"/>
 
-**DevOps & Tools**
+**Distributed Systems & Messaging**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,jenkins" />
+<img src="https://skillicons.dev/icons?i=kafka,redis" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/> <img src="https://img.shields.io/badge/Resilience4j-black?style=flat-square"/>
+
+**Databases & Retrieval**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /> <img src="https://img.shields.io/badge/HNSW-black?style=flat-square"/> <img src="https://img.shields.io/badge/RRF-black?style=flat-square"/> <img src="https://img.shields.io/badge/Cohere_Rerank-black?style=flat-square"/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions" />
+
+**Frontend & Observability**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> <img src="https://img.shields.io/badge/Langfuse-black?style=flat-square"/> <img src="https://img.shields.io/badge/OpenTelemetry-black?style=flat-square"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
 </div>
 
-<br/>
-
-<details>
-<summary><b>📋 Full skill breakdown (click to expand)</b></summary>
-<br/>
-
-| Category | Skills |
-|---|---|
-| **LLM Engineering** | LLM, RAG, Hugging Face, LangChain |
-| **Agentic AI** | CrewAI, LangGraph, AutoGen |
-| **DevOps** | Linux, Docker, Kubernetes, MLOps, GitOps, VM, Jenkins, Automation |
-| **System Design** | LLD, HLD, Design Patterns, OOA&D |
-| **Backend** | Node.js, Express.js, Convex, Socket.io, Zustand, Webhooks |
-| **Security** | JWT, OAuth, Clerk |
-| **UI/UX** | Figma, Shadcn UI, DaisyUI, Chakra UI, Canva |
-
-</details>
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Key Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="100%">
+
+**🔹 Hired.auto — Apply While You Sleep**
+`Java` `Spring Boot` `PostgreSQL` `Python` `Chrome Extension` `JavaScript` `OAuth 2.0` `OpenID Connect`
+
+- Platform that eliminates job hunting: scrapes real-time listings across LinkedIn, Naukri, Indeed, Glassdoor & the broader web, then auto-fills and submits applications via a custom Chrome Extension with a precision field-detection algorithm — **92% auto-fill accuracy**, zero manual effort
+- Gmail API + OAuth 2.0 integration monitors the inbox in real time, classifying every recruiter response and surfacing it on a live application tracking dashboard
+
+<br/>
+
+**🔹 Autonomous Career Opportunity Discovery System**
+`Python` `SerperAPI` `LLMs` `LangChain` `REST APIs`
+
+- AI-driven internship recommender improving personalized recommendation accuracy by **~72%** over a keyword-search baseline (precision@10)
+- End-to-end real-time pipeline (scraping → ranking → generation → direct application links) processing **500+ listings**
+
+</td>
+</tr>
+</table>
+
+<p align="center"><i>Explore 25+ personal and award-winning projects on GitHub and portfolio ↓</i></p>
 
 <div align="center">
 
@@ -121,29 +128,18 @@ Built a real-time messaging app with 32 customizable themes & media sharing
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Achievements
 
-🏅 **Winner — IIT Bombay Geospatial Mapathon (2023)** — Ranked top 1% among 2,400+ national teams
+🏅 **Winner — IIT Bombay Geospatial Hackathon (National, Dec 2023):** Ranked top 1% among 2,400+ teams; engineered a geospatial analytics solution with a scalable data-processing and visualization pipeline
+
+🎯 **Smart India Hackathon (SIH) 2025 — Shortlisted:** Built the AI-driven internship-matching system (LLMs + real-time data extraction), now a standalone open-source project
 
 ---
 
 ## 🎓 Education
 
 **Government College of Engineering, Salem**
-B.E. Electronics & Communication Engineering | CGPA: **8.95** &nbsp;·&nbsp; `2022 – 2026`
-
-**St. Paul's Higher Secondary School, Salem**
-HSC: **94.2%** &nbsp;·&nbsp; SSLC: **90.2%**
-
----
-
-## 📜 Certifications
-
-- 📖 Complete LLM Engineering Course
-- 📖 Full-Stack AI (MERN/Python) with Ollama — Llama, DeepSeek, Mistral, QwQ
-- 📖 Advanced System Design
-- 📖 Agentic AI Engineering
-- 📖 ISRO Certified — Satellite Remote Sensing, GIS Mapping, Image Processing
+B.E. Electronics & Communication Engineering | CGPA: **9.02 / 10** &nbsp;·&nbsp; `2022 – 2026`
 
 ---
 
