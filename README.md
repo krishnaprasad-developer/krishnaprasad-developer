@@ -9,7 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=krishnaprasad-developer&label=Profile%20Views&color=00AEEF&style=for-the-badge" alt="Profile Views"/>
 <a href="https://www.linkedin.com/in/krishna-prasad-s-59133a280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:krishnaprasadandco12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://krishnaprasadprofile.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-View-2ECC71?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
